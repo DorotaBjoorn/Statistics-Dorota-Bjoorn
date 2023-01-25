@@ -230,11 +230,11 @@
         },
         "jupyter-core": {
             "hashes": [
-                "sha256:80d29fef4210ca8d30f25018a28d06dcc582bb1a82b848f2eab61a349a007af1",
-                "sha256:fe812ffffd0ead286327dc570888684183cef4070e57d9ebadc92f3bd9c9a05d"
+                "sha256:83064d61bb2a9bc874e8184331c117b3778c2a7e1851f60cb00d273ceb3285ae",
+                "sha256:8e54c48cde1e0c8345f64bcf9658b78044ddf02b273726cea9d9f59be4b02130"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==5.1.4"
+            "version": "==5.1.5"
         },
         "kiwisolver": {
             "hashes": [
@@ -465,11 +465,11 @@
         },
         "pathspec": {
             "hashes": [
-                "sha256:3c95343af8b756205e2aba76e843ba9520a24dd84f68c22b9f93251507509dd6",
-                "sha256:56200de4077d9d0791465aa9095a01d421861e405b5096955051deefd697d6f6"
+                "sha256:3a66eb970cbac598f9e5ccb5b2cf58930cd8e3ed86d393d541eaf2d8b1705229",
+                "sha256:64d338d4e0914e91c1792321e6907b5a593f1ab1851de7fc269557a21b30ebbc"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.10.3"
+            "version": "==0.11.0"
         },
         "patsy": {
             "hashes": [

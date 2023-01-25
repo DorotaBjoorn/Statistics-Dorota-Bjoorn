@@ -8,10 +8,10 @@ ipykernel = "*"
 black = "*"
 numpy = "*"
 pandas = "*"
-matplotlib = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+matplotlib = "*"
 
 [dev-packages]
 
